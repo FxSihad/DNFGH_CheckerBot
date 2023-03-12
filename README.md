@@ -69,7 +69,7 @@ A Telegram CC Checker Bot with hella lotta features.
  - Set Webhook to main.php in root folder of bot 
 
 ### Hosting on Heroku
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Serbero6w/DNFGH_CheckerBot/tree/heroku-version)  
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/FxSihad/DNFGH_CheckerBot/tree/heroku-version)  
  - Click on the Above Shown ```Deploy To Heroku``` Button
  - Get Free Database from [Here](https://freesqldatabase.com)
  - Login to [WebPHPmyAdmin](http://www.phpmyadmin.co) with DB Credentials
